@@ -1,0 +1,120 @@
+name: ShieldCoreBoxPVP
+version: '${project.version}'
+main: me.hubikopter.shieldcoreboxpvp.ShieldCoreBoxPVP
+api-version: 1.18
+authors: [ hubikopter ]
+permissions:
+  gracz.prefix:
+    default: false
+  gracz.vip:
+    default: false
+  gracz.svip:
+    default: false
+  gracz.sponsor:
+    default: false
+  gracz.shield:
+    default: false
+  gracz.helper:
+    default: false
+  gracz.mod:
+    default: false
+  gracz.admin:
+    default: false
+  gracz.wlasciciel:
+    default: false
+
+commands:
+  zrzut:
+    description: Your description
+    usage: /<command>
+  tphere:
+    description:  a
+    usage: /<command>
+  bc:
+    usage: /<command>
+  msg:
+    usage: /<command>
+  fly:
+    usage: /<command>
+  spawn:
+    usage: /<command>
+  ec:
+    usage: /<command>
+    aliases:
+      - enderchest
+  helpop:
+    usage: /<command>
+  stats:
+    usage: /<command>
+  invsee:
+    usage: /<command>
+  bezpieczna:
+    usage: /<command>
+  top:
+    usage: /<command>
+  serca:
+    usage: /<command>
+  heal:
+    usage: /<command>
+  uuid:
+    usage: /<command>
+  clear:
+    usage: /<command>
+  discord:
+    usage: /<command>
+  pomoc:
+    usage: /<command>
+    aliases:
+      - dsc
+      - nagroda
+      - nagrodadc
+      - dc
+  boss:
+    usage: /<command>
+  money:
+    usage: /<command>
+  bloki:
+    usage: /<command>
+  sklep:
+    usage: /<command>
+  sklepzamonety:
+    usage: /<command>
+  nickcolor:
+    usage: /<command>
+  sklepkolory:
+    usage: /<command>
+  sklepprefixy:
+    usage: /<command>
+  warp:
+    usage: /<command>
+    aliases:
+      - strefy
+  voucheradd:
+    usage: /<command>
+  Sklepzaczas:
+    usage: /<command>
+  live:
+    usage: /<command>
+  kit:
+    usage: /<command>
+  sprawdz:
+    usage: /<command>
+  lobby:
+    usage: /<command>
+  kick:
+    usage: /<command>
+  vanish:
+    usage: /<command>
+  kowal:
+    usage: /<command>
+  chat:
+    usage: /<command>
+  rynek:
+    usage: /<command>
+  ustawienia:
+    usage: /<command>
+  daily:
+    usage: /<command>
+  sklepzabojstwa:
+    usage: /<command>
+
